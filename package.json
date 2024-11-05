@@ -1,0 +1,24 @@
+{
+  "name": "jubilant-robot",
+  "version": "1.0.0",
+  "description": "A simple React and Next.js application",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/favourablegroup/jubilant-robot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
+    "next": "^10.2.3"
+  }
+}
